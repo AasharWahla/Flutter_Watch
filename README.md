@@ -1,16 +1,12 @@
-# watch
+**Aashar Wahla - Flutter Developer**
 
-A new Flutter project.
+**Watch (Analog Clock) Flutter Animation**
+![Flutter Analog Watch - Animation](https://github.com/AasharWahla/Flutter_Watch/blob/master/gitImage/screen_shot1.png)
 
-## Getting Started
+Animations were not my priority while learning flutter 😂 , so I missed them for my first three years of development.
+But now, I am starting to understand the importance of Flutter Animation.
+So I have started to learn animation, and this is one of my first projects after taking the Andrea Full Flutter Animation Course.
 
-This project is a starting point for a Flutter application.
+If you want to follow me through my journey of learning flutter animations, **follow, or Star ⭐️** this repo.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+You can follow or contact me on [Github](https://github.com/AasharWahla/), [LinkedIn](https://www.linkedin.com/in/aasharwahla), [Twitter](https://twitter.com/aasharofficial), or [Instagram](http://instagram.com/aasharofficial)
